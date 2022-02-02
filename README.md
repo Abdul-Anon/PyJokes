@@ -1,6 +1,6 @@
 ## Hi, it's Muhaimin again 👋
 
-This is something unorthodox but cool
+This is something unorthodox but cool.
 Don't forget to try to laugh😅 
 # PyJokes
 
