@@ -18,13 +18,11 @@ Python3.10.
     2) pyjokes
 ### Install On Windows/Unix/MacOS
 
-    1) pip install tkinter
-    2) pip install pyjokes
+    1) pip install pyjokes
 
 ### Install On Linux
 
-    1) sudo apt-get install python3-tk
-    2) sudo apt-get install python3-pyjokes
+    1) sudo apt-get install python3-pyjokes
     
 ## Screenshots
 <img src="Screenshot (1).png" alt="Shot" />
